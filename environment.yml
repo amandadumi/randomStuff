@@ -1,6 +1,9 @@
 name:  proposal
+channels:
+    - menpo
 dependencies:
     - python=2.7
     - numpy
     - matplotlib
     - IPython
+    - ffmpeg
